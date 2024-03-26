@@ -28,4 +28,6 @@ Models used
 
 Background Image
 
-- Maze: taken from: (https://www.reddit.com/r/Pacman/comments/134jn7j/jr_pacman_but_now_in_widescreen_and_the_fruit/) edited by me
+- Maze: taken from: (https://www.reddit.com/r/Pacman/comments/134jn7j/jr_pacman_but_now_in_widescreen_and_the_fruit/) edited by me (Anthi Georgiadou)
+
+Code Implementation: Anthi Georgiadou
