@@ -1,5 +1,0 @@
-C:/Users/user/Anthi/CS RUG 2021/Courses/Year3/Comp Graph/Competition/Pacman/build-src-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/OpenGL_2.dir
-C:/Users/user/Anthi/CS RUG 2021/Courses/Year3/Comp Graph/Competition/Pacman/build-src-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
-C:/Users/user/Anthi/CS RUG 2021/Courses/Year3/Comp Graph/Competition/Pacman/build-src-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
-C:/Users/user/Anthi/CS RUG 2021/Courses/Year3/Comp Graph/Competition/Pacman/build-src-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/OpenGL_2_autogen_timestamp_deps.dir
-C:/Users/user/Anthi/CS RUG 2021/Courses/Year3/Comp Graph/Competition/Pacman/build-src-Desktop_Qt_6_6_1_MinGW_64_bit-Debug/CMakeFiles/OpenGL_2_autogen.dir

@@ -61,7 +61,7 @@ void MainView::initializeGL() {
 
     // Set the color to be used by glClear. This is, effectively, the background
     // color.
-    glClearColor(0.0f, 0.0f, 0.0f, 0.0f);
+    glClearColor(39.0f / 255.0f, 48.0f / 255.0f, 67.0f / 255.0f, 1.0f);
 
     createShaderProgram();
     loadMesh(":/models/pacman.obj");
